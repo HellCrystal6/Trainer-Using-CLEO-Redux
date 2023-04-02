@@ -4,7 +4,7 @@ import { KeyCode } from ".config/enums.js"
 
 var p = new Player(0)
 
-showTextBox("CrystalWare Loaded!")
+showTextBox("Script Loaded!")
 
 while(true){
     wait(0)
