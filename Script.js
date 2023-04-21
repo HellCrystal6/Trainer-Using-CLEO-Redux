@@ -13,7 +13,7 @@ while(true){
     let Invincible = false;
     
     //Guide
-    if(Pad.IsKeyDown(KeyCode.F12)){
+    if(Pad.IsKeyDown(KeyCode.P)){
         showTextBox("F1 = Invincible ON, F3 = Invincible OFF, F4 = Clear Wanted Level, F5 = Add Money, F6 = Remove Money, F7 = Add Health, F8 = Add Armor, F9 = Give Guns, F10 = Spawn NRG 900, F11 = Spawn SuperGT, F12 = Spawn Helicopter");
     }
     //Invincible on
